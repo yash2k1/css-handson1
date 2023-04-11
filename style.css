@@ -1,0 +1,44 @@
+.h1 {
+  color: red;
+}
+h2 {
+  font-style: italic;
+  color: red;
+}
+.ordered-list {
+  line-height: 50px;
+  color: maroon;
+}
+#span1 {
+  text-decoration: line-through;
+  font-weight: bold;
+}
+#span2 {
+  background-color: yellow;
+  font-weight: bold;
+}
+.fourth-thlist {
+  text-decoration: underline;
+  font-style: italic;
+  list-style-type: decimal;
+}
+/*  container 2 */
+.container2 {
+  color: maroon;
+  letter-spacing: 5px;
+}
+.container2 span {
+  background: yellow;
+  font-weight: bold;
+}
+/* container 3 */
+.container3 {
+  color: #8B4513;
+  line-height: 50px;
+}
+.alink {
+  text-decoration: none;
+  color: red;
+  background: yellow;
+  font-style: italic;
+}
